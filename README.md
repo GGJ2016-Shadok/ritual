@@ -11,21 +11,22 @@ au fur et a mesure de l'avancement, les messages et les hallu deviennent de plus
 
 
 ## Le perso
-	 ### Barre de santé mentale :
+
+### Barre de santé mentale :
 		- Elle détermine le nombre/la fréquence des problèmes qu'il aura (monstres, vitesse de déplacement, visibilité …)
 
-    ### Contrôle/camera :
+### Contrôle/camera :
     	- FPS
     	- 3D
     	- Courir
       - flash de téléphone portable
 
-      #### téléphone
+#### téléphone
       - messages pour le joueur
       - batterie limitée
 
 ## La map :
-	### Un Desert
+### Un Desert
   *une map de dune de sable*
 	   - Brume
      - Sable mouvant
